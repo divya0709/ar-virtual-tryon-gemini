@@ -1,6 +1,11 @@
 # AR Virtual Try-On using Gemini 2.5
 
 This project overlays products (clothes) onto a person using Gemini 2.5 Flash Image API.
+#try-on images
+
+![alt text](https://github.com/divya0709/ar-virtual-tryon-gemini/blob/main/images/lipstick%20try-on.png)
+![alt text](https://github.com/divya0709/ar-virtual-tryon-gemini/blob/main/images/jacket%20try-on.jpeg)
+![alt text](https://github.com/divya0709/ar-virtual-tryon-gemini/blob/main/images/dress%20try-on.jpeg)
 
 ## Features
 - Upload a person image and a product image (dataset-driven)
